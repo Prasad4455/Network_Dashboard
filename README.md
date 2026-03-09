@@ -66,8 +66,8 @@ network-traffic-monitor/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/network-traffic-monitor
-cd network-traffic-monitor
+git clone https://github.com/Pradad4455/Network_Dashboard
+cd Network_Dashboard
 ```
 
 2. Install the required packages:
